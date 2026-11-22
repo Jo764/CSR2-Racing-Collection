@@ -13,6 +13,93 @@ To be the first to get project updates, please join our Discord channel at →  
 5. If you have any problems, questions, feedback issues with the code, please contact Discord: williamjames#8510 or https://discord.gg/XVZbNan <br>
 
 **Repository Update Log:**<br>
+## Update 6.8.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.8.0.png)
+****
+## Update 6.7.0 OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.7.0%20OTA2.png)
+****
+## Update 6.7.0 OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.7.0%20OTA1.png)
+****
+## Update 6.7.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.7.0.png)
+****
+## Update 6.6.0 OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.6.0%20OTA2.png)
+****
+## Update 6.6.0 OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.6.0%20OTA1.png)
+****
+## Update 6.5.0 OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.5.0%20OTA2.png)
+****
+## Update 6.5.0 OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.5.0%20OTA1.png)
+****
+## Update 6.5.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.5.0%20OTA0.png)
+****
+## Update 6.2.1 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.2.1%20OTA1.png)
+****
+## Update 6.2.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.2.0%20OTA1.png)
+****
+## Update 6.1.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.1.0%20OTA2.png)
+****
+## Update 6.1.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.1.0%20OTA1.png)
+****
+## Update 6.0.1 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.0.2.png)
+****
+## Update 6.0.1 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V6.0.1%20%20OTA1.png)
+****
+## Update 5.9.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.9.0%20OTA1.png)
+****
+## Update 5.8.0 → OTA3
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.8.0%20OTA3.png)
+****
+## Update 5.8.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.8.0%20OTA2.png)
+****
+## Update 5.8.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.8.0%20OTA1.png)
+****
+## Update 5.7.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.7.0%20OTA2.png)
+****
+## Update 5.7.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.7.0%20OTA1.png)
+****
+## Update 5.7.0
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.7.0.png)
+****
+## Update 5.6.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.6.0%20OTA2.png)
+****
+## Update 5.6.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.6.0%20OTA1.png)
+****
+## Update 5.5.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.5.0%20OTA2.png)
+****
+## Update 5.5.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.5.0%20OTA1.png)
+****
+## Update 5.4.0 → OTA2
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.4.0%20OTA2.png)
+****
+## Update 5.4.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.4.0%20OTA1.png)
+****
+## Update 5.3.0 → OTA1
+![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.3.0%20OTA1.png)
+****
 ## Update 5.2.1 → OTA3
 ![](https://github.com/wear87/Picture-Material/blob/master/CSR2%20Material/V5.2.1%20OTA3.png)
 ****
@@ -162,3 +249,9 @@ Please reach out to us on Discord and we'll review and grant the permission on a
 Discord Server: https://discord.gg/XVZbNan <br>
 Official Q&A Forum: https://zyngasupport.helpshift.com/a/csr-2/?p=all><br>
 Official Development Blog: https://csr-racing.com/
+
+
+
+
+
+
